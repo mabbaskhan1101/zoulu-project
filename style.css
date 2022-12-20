@@ -1,0 +1,26 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+}
+.container h1 {
+    display: flex;
+}
+.container  h3 {
+    display: flex;
+}
+
+.from {
+    background: black;
+    padding: 50px;
+}
+.container {
+    background-color:lightgray;
+}
+.container input {
+    border-radius: 15px;
+    text-align:center ;
+}
